@@ -1,0 +1,35 @@
+function findTutsPlusLink() {
+    return true;
+    return browser.findElements(webdriver.By.id('app-container')).then(function(result) {
+        console.log('result', result)
+        return result[0];
+    });
+}
+
+"use strict";
+
+var webdriver = require('selenium-webdriver');
+const chrome = require('selenium-webdriver/chrome');
+var chromeOptions = new chrome.Options();
+chromeOptions.addArguments(['--disable-extensions', "--start-maximized", "--user-data-dir=/home/vlot/.config/google-chrome/Default"]);
+
+
+
+var browser = new webdriver.Builder().usingServer().withCapabilities(chromeOptions.toCapabilities()).build();
+function closeBrowser() {
+    console.log ('close browser (wait)')
+    // setTimeout(function(){
+    //     browser.quit();
+    // }, 18000)
+}
+
+function handleFailure(err) {
+    console.error('Something went wrong\n', err.stack, '\n');
+    closeBrowser();
+}
+
+browser.get('https://stubhub.com');
+// browser.findElement(webdriver.By.name('q')).sendKeys('tuts+ code');
+// browser.findElement(webdriver.By.name('btnG')).click();
+browser.wait(findTutsPlusLink, 600000).then(closeBrowser, handleFailure);
+
