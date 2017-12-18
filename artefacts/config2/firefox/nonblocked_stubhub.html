@@ -324,7 +324,7 @@
     // Currently bundling is done for homepage only so if condition is for homepage
     if(SH.appName == 'homepage') {
         require([
-            'global_context'
+            'artefacts/config2/firefox(config2)/Global_Context'
         ], function(gc) {
 
             requirejs.config(SH.requirejs.config);
@@ -347,7 +347,7 @@
     }else {
         require([
             SH.app.staticHost + '/resources/shape/scripts/' + SH.appFolder + '/config.js',
-            'global_context'
+            'artefacts/config2/firefox(config2)/Global_Context'
         ], function(config, gc) {
 
             requirejs.config(SH.requirejs.config);

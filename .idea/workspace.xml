@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b56062f-4c21-4e93-aca6-8e1930862aa3" name="Default" comment="" />
+    <list default="true" id="3b56062f-4c21-4e93-aca6-8e1930862aa3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/artefacts/config1/chrome/AKSB.js" afterPath="$PROJECT_DIR$/artefacts/config1/chrome/AKSB.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/artefacts/config1/chrome/nonblocked_stubhub.html" afterPath="$PROJECT_DIR$/artefacts/config1/chrome/nonblocked_stubhub.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/AKSB.js" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/AKSB.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/stubhub.html" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/stubhub.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/artefacts/config2/firefox/Global_Context.js" afterPath="$PROJECT_DIR$/artefacts/config2/firefox/Global_Context.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/artefacts/config2/firefox/nonblocked_stubhub.html" afterPath="$PROJECT_DIR$/artefacts/config2/firefox/nonblocked_stubhub.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/detection.js" afterPath="$PROJECT_DIR$/detection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/patterns.json" afterPath="$PROJECT_DIR$/patterns.json" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,8 +24,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="detection.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/detection.js">
+      <file leaf-file-name="stubhub.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/stubhub.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="362" column="24" lean-forward="false" selection-start-line="362" selection-start-column="24" selection-end-line="362" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="async.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/6/21:16:22.037Z/sources/async.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -24,77 +44,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RESULTS.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/RESULTS.json">
+      <file leaf-file-name="async.js_deObfuscated" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/6/21:16:22.037Z/sources/async.js_deObfuscated">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1386">
-              <caret line="83" column="12" lean-forward="false" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="w7jb2mql1engtxycifo2y6xyr9udkpzx_deObfuscated" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/sources/w7jb2mql1engtxycifo2y6xyr9udkpzx_deObfuscated">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="320" column="40" lean-forward="false" selection-start-line="320" selection-start-column="34" selection-end-line="320" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WFFuSp01RTP9g0jTO7oRA.js_deObfuscated" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/sources/WFFuSp01RTP9g0jTO7oRA.js_deObfuscated">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-18532">
-              <caret line="319" column="29" lean-forward="true" selection-start-line="319" selection-start-column="29" selection-end-line="319" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="uwt.js_deObfuscated" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/sources/uwt.js_deObfuscated">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-702">
+            <state relative-caret-position="-6426">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bat.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/sources/bat.js">
+      <file leaf-file-name="async.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/async.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="0" column="3606" lean-forward="false" selection-start-line="0" selection-start-column="3597" selection-end-line="0" selection-end-column="3606" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bat.js_deObfuscated" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/sources/bat.js_deObfuscated">
+      <file leaf-file-name="zwxsutztwbeffxbyzcquv.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/zwxsutztwbeffxbyzcquv.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2885">
-              <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="patterns.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/patterns.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -105,17 +93,32 @@
       <find>plain</find>
       <find>root</find>
       <find>src:</find>
-      <find>navigator</find>
       <find>cap</find>
-      <find>naviga</find>
       <find>http</find>
+      <find>naviga</find>
+      <find>captcha</find>
+      <find>funcap</find>
+      <find>window.navigator</find>
+      <find>[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}</find>
+      <find>navigator</find>
+      <find>The quick brown fox jumps over the lazy dog</find>
+      <find>distill</find>
+      <find>captch</find>
+      <find>app-container</find>
+      <find>browser.quit</find>
+      <find>seed1</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$</dir>
       <dir>$PROJECT_DIR$/scripts/2017/11/3/09:44:35.065Z</dir>
       <dir>$PROJECT_DIR$/scripts/stubhub/2017/11/4</dir>
       <dir>$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/sources</dir>
+      <dir>$PROJECT_DIR$/scripts/stubhub/2017/11/6/20:39:40.397Z/sources</dir>
+      <dir>$PROJECT_DIR$/scripts/stubhub/2017/11/6/21:16:22.037Z</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -128,6 +131,13 @@
         <option value="$PROJECT_DIR$/dummy.txt" />
         <option value="$PROJECT_DIR$/patterns.json" />
         <option value="$PROJECT_DIR$/detection.js" />
+        <option value="$PROJECT_DIR$/artefacts/firefox/nonblocked_stubhub.html" />
+        <option value="$PROJECT_DIR$/artefacts/firefox/AKSB.js" />
+        <option value="$PROJECT_DIR$/artefacts/firefox/Global_Context.js" />
+        <option value="$PROJECT_DIR$/artefacts/chrome(Config1)/nonblocked_stubhub.html" />
+        <option value="$PROJECT_DIR$/artefacts/chrome(Config1)/AKSB.js" />
+        <option value="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/stubhub.html" />
+        <option value="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/AKSB.js" />
       </list>
     </option>
   </component>
@@ -148,11 +158,12 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="76" />
-    <option name="y" value="109" />
-    <option name="width" value="1732" />
-    <option name="height" value="711" />
+    <option name="x" value="1" />
+    <option name="y" value="25" />
+    <option name="width" value="639" />
+    <option name="height" value="413" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -169,7 +180,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,6 +190,44 @@
             <path>
               <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
               <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="artefacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="artefacts" type="462c0819:PsiDirectoryNode" />
+              <item name="config1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="artefacts" type="462c0819:PsiDirectoryNode" />
+              <item name="config1" type="462c0819:PsiDirectoryNode" />
+              <item name="chrome" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="artefacts" type="462c0819:PsiDirectoryNode" />
+              <item name="config2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="artefacts" type="462c0819:PsiDirectoryNode" />
+              <item name="config2" type="462c0819:PsiDirectoryNode" />
+              <item name="chrome_BLOCKED" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="artefacts" type="462c0819:PsiDirectoryNode" />
+              <item name="config2" type="462c0819:PsiDirectoryNode" />
+              <item name="firefox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -210,33 +258,13 @@
               <item name="stubhub" type="462c0819:PsiDirectoryNode" />
               <item name="2017" type="462c0819:PsiDirectoryNode" />
               <item name="11" type="462c0819:PsiDirectoryNode" />
-              <item name="4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
-              <item name="stubhub" type="462c0819:PsiDirectoryNode" />
-              <item name="2017" type="462c0819:PsiDirectoryNode" />
-              <item name="11" type="462c0819:PsiDirectoryNode" />
-              <item name="4" type="462c0819:PsiDirectoryNode" />
-              <item name="20:50:11.452Z" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
-              <item name="stubhub" type="462c0819:PsiDirectoryNode" />
-              <item name="2017" type="462c0819:PsiDirectoryNode" />
-              <item name="11" type="462c0819:PsiDirectoryNode" />
-              <item name="4" type="462c0819:PsiDirectoryNode" />
-              <item name="20:50:11.452Z" type="462c0819:PsiDirectoryNode" />
-              <item name="sources" type="462c0819:PsiDirectoryNode" />
+              <item name="6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,13 +274,17 @@
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="resu&#9;FILE&#9;file:///home/vlot/selenium/scripts/stubhub/2017/11/4/19:08:56.291Z/RESULTS.json" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/vlot/selenium/patterns.json&#10;resu&#9;FILE&#9;file:///home/vlot/selenium/scripts/stubhub/2017/11/4/19:08:56.291Z/RESULTS.json" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/artefacts/config2" />
+      <recent name="$PROJECT_DIR$/artefacts/config1" />
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -286,21 +318,22 @@
       <workItem from="1511704857120" duration="22000" />
       <workItem from="1511898638928" duration="13956000" />
       <workItem from="1512071447141" duration="15909000" />
-      <workItem from="1512414478638" duration="6945000" />
+      <workItem from="1512414478638" duration="17433000" />
+      <workItem from="1513110824519" duration="1684000" />
+      <workItem from="1513624854083" duration="5346000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45916000" />
+    <option name="totallyTimeSpent" value="63434000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="76" y="109" width="1853" height="950" extended-state="6" />
+    <frame x="1" y="25" width="1853" height="950" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986508" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18618457" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -311,6 +344,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -343,93 +377,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/example/google_search_generator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/example/google_search.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-458">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/example/firefox_channels.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-872">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/profiles/profile01.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/headless_detection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="49" column="37" lean-forward="false" selection-start-line="49" selection-start-column="37" selection-end-line="49" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/example/headless.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/w7jb2mql1engtxycifo2y6xyr9udkpzx" />
-    <entry file="file://$PROJECT_DIR$/scripts/1.js" />
-    <entry file="file://$PROJECT_DIR$/scripts/7219.js" />
-    <entry file="file://$PROJECT_DIR$/scripts/aksb.min.js" />
-    <entry file="file://$PROJECT_DIR$/scripts/atgsvcs.js" />
-    <entry file="file://$PROJECT_DIR$/scripts/bat.js" />
-    <entry file="file://$PROJECT_DIR$/scripts/beacon.js" />
-    <entry file="file://$PROJECT_DIR$/scripts/common-build-delay.js" />
-    <entry file="file://$PROJECT_DIR$/scripts/common-lib-0.3.0.js" />
-    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/lib/test/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="136" column="9" lean-forward="false" selection-start-line="136" selection-start-column="9" selection-end-line="136" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/main.js" />
-    <entry file="file://$PROJECT_DIR$/dummy.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="1699" column="28" lean-forward="true" selection-start-line="1699" selection-start-column="28" selection-end-line="1699" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/original/2017/11/3/09:40:27.305Z/1.js" />
-    <entry file="file://$PROJECT_DIR$/scripts/deobfuscate/2017/11/3/09:40:27.335Z/1.js" />
     <entry file="file://$PROJECT_DIR$/scripts/2017/11/3/09:44:35.065Z/adsct" />
     <entry file="file://$PROJECT_DIR$/test.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -439,298 +386,201 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/3/11:04:25.305Z/1.js_results.json" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/3/11:10:24.775Z/1.js_results.json">
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/3/11:10:24.775Z/1.js_results.json" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/3/11:41:35.016Z/RESULTS.json" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/19:08:56.291Z/adsct" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/19:08:56.291Z/quantum-stubhub.js" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/19:08:56.291Z/RESULTS.json" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/19:08:56.291Z/show_ads.js_deObfuscated" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/19:12:20.494Z/RESULTS.json" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/19:46:38.537Z/RESULTS.json" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:00:18.556Z/inner_script0.js_deObfuscated" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:00:18.556Z/inner_script0.js" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:04:19.308Z/json" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:04:19.308Z/RESULTS.json" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:19:46.016Z/RESULTS.json" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:32:35.897Z/index.html" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:32:35.897Z/index.html_deObfuscated" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:32:35.897Z/vsopts.js_deObfuscated" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:32:35.897Z/RESULTS.json" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/sources/bat.js" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/sources/bat.js_deObfuscated" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/sources/WFFuSp01RTP9g0jTO7oRA.js_deObfuscated" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/sources/uwt.js_deObfuscated" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/sources/w7jb2mql1engtxycifo2y6xyr9udkpzx_deObfuscated" />
+    <entry file="file://$PROJECT_DIR$/profiles/profile01.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="252">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/3/11:41:35.016Z/RESULTS.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/19:08:56.291Z/adsct">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/19:08:56.291Z/quantum-stubhub.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/19:08:56.291Z/RESULTS.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/19:08:56.291Z/show_ads.js_deObfuscated">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/19:12:20.494Z/RESULTS.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-579">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/19:46:38.537Z/RESULTS.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="52" column="8" lean-forward="true" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:00:18.556Z/inner_script0.js_deObfuscated">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:00:18.556Z/inner_script0.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:04:19.308Z/json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:04:19.308Z/RESULTS.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:19:46.016Z/RESULTS.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3063">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:32:35.897Z/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#iframe#1;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#iframe#2;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#1;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#2;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#3;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#96908#96913#0" expanded="false" />
-            <element signature="e#97685#97690#0" expanded="false" />
-            <element signature="e#122231#122236#0" expanded="false" />
-            <element signature="n#style#0;n#div#23;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#27;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#123978#123984#0" expanded="false" />
-            <element signature="e#124045#124051#0" expanded="false" />
-            <element signature="e#126044#126050#0" expanded="false" />
-            <element signature="e#126111#126117#0" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#47;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#47;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#133419#133424#0" expanded="false" />
-            <element signature="e#133443#133448#0" expanded="false" />
-            <element signature="e#133462#133467#0" expanded="false" />
-            <element signature="e#133646#133651#0" expanded="false" />
-            <element signature="e#133670#133675#0" expanded="false" />
-            <element signature="e#133689#133694#0" expanded="false" />
-            <element signature="e#134534#134539#0" expanded="false" />
-            <element signature="e#134549#134554#0" expanded="false" />
-            <element signature="e#134573#134578#0" expanded="false" />
-            <element signature="e#134590#134595#0" expanded="false" />
-            <element signature="e#134627#134632#0" expanded="false" />
-            <element signature="e#134655#134660#0" expanded="false" />
-            <element signature="e#134674#134679#0" expanded="false" />
-            <element signature="e#134687#134692#0" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#135073#135078#0" expanded="false" />
-            <element signature="e#135320#135325#0" expanded="false" />
-            <element signature="e#135335#135340#0" expanded="false" />
-            <element signature="e#135359#135364#0" expanded="false" />
-            <element signature="e#135376#135381#0" expanded="false" />
-            <element signature="e#135413#135418#0" expanded="false" />
-            <element signature="e#135441#135446#0" expanded="false" />
-            <element signature="e#135460#135465#0" expanded="false" />
-            <element signature="e#135473#135478#0" expanded="false" />
-            <element signature="e#136467#136472#0" expanded="false" />
-            <element signature="n#style#0;n#p#0;n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#138627#138632#0" expanded="false" />
-            <element signature="e#138675#138680#0" expanded="false" />
-            <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#145562#145567#0" expanded="false" />
-            <element signature="e#145610#145615#0" expanded="false" />
-            <element signature="n#style#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#10;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#148237#148242#0" expanded="false" />
-            <element signature="n#style#0;n#iframe#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#149018#149022#0" expanded="false" />
-            <element signature="e#149066#149071#0" expanded="false" />
-            <element signature="e#149151#149155#0" expanded="false" />
-            <element signature="e#149562#149566#0" expanded="false" />
-            <element signature="e#149608#149613#0" expanded="false" />
-            <element signature="e#149627#149632#0" expanded="false" />
-            <element signature="e#149642#149647#0" expanded="false" />
-            <element signature="e#149657#149661#0" expanded="false" />
-            <element signature="e#150253#150257#0" expanded="false" />
-            <element signature="e#150370#150375#0" expanded="false" />
-            <element signature="e#150392#150396#0" expanded="false" />
-            <element signature="n#style#0;n#iframe#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#150584#150589#0" expanded="false" />
-            <element signature="e#150601#150606#0" expanded="false" />
-            <element signature="e#150618#150623#0" expanded="false" />
-            <element signature="e#150635#150640#0" expanded="false" />
-            <element signature="e#150652#150657#0" expanded="false" />
-            <element signature="e#150660#150665#0" expanded="false" />
-            <element signature="e#150706#150711#0" expanded="false" />
-            <element signature="n#style#0;n#div#12;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#iframe#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#152932#152937#0" expanded="false" />
-            <element signature="e#152942#152947#0" expanded="false" />
-            <element signature="e#152987#152992#0" expanded="false" />
-            <element signature="e#153004#153009#0" expanded="false" />
-            <element signature="e#153023#153028#0" expanded="false" />
-            <element signature="e#153035#153040#0" expanded="false" />
-            <element signature="e#153054#153059#0" expanded="false" />
-            <element signature="e#153067#153072#0" expanded="false" />
-            <element signature="e#153079#153084#0" expanded="false" />
-            <element signature="e#153090#153095#0" expanded="false" />
-            <element signature="e#153100#153105#0" expanded="false" />
-            <element signature="e#153159#153164#0" expanded="false" />
-            <element signature="e#153198#153203#0" expanded="false" />
-            <element signature="e#153237#153242#0" expanded="false" />
-            <element signature="e#153251#153256#0" expanded="false" />
-            <element signature="n#style#0;n#iframe#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#14;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:32:35.897Z/index.html_deObfuscated">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:32:35.897Z/vsopts.js_deObfuscated">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:32:35.897Z/RESULTS.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/RESULTS.json" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/6/20:39:40.397Z/RESULTS.json" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/6/20:39:40.397Z/sources/fs.trigger.js_deObfuscated" />
     <entry file="file://$PROJECT_DIR$/patterns.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="643">
+          <caret line="47" column="5" lean-forward="false" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/6/21:16:22.037Z/sources/7219.js_deObfuscated">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1218">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/6/21:16:22.037Z/sources/7219.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/6/21:16:22.037Z/sources/1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/6/21:16:22.037Z/sources/1.js_deObfuscated">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/infojobs/2017/11/6/21:27:50.952Z/sources/schbstddstl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/infojobs/2017/11/6/21:27:50.952Z/sources/schbstddstl.js_deObfuscated">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-367">
+          <caret line="564" column="126" lean-forward="false" selection-start-line="564" selection-start-column="8" selection-end-line="564" selection-end-column="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/6/21:16:22.037Z/RESULTS.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/infojobs/2017/11/6/21:27:50.952Z/RESULTS.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/detection.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="30" column="22" lean-forward="false" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/infojobs/2017/11/7/09:08:22.659Z/RESULTS.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artefacts/config2/firefox/Global_Context.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="55" column="54" lean-forward="false" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artefacts/config2/firefox/nonblocked_stubhub.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="325" column="17" lean-forward="true" selection-start-line="325" selection-start-column="17" selection-end-line="325" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artefacts/config2/firefox/AKSB.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/AKSB.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artefacts/config1/chrome/AKSB.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artefacts/config1/chrome/nonblocked_stubhub.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="355" column="23" lean-forward="true" selection-start-line="355" selection-start-column="23" selection-end-line="355" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/zwxsutztwbeffxbyzcquv.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/sources/bat.js">
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/6/21:16:22.037Z/sources/async.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="0" column="3606" lean-forward="false" selection-start-line="0" selection-start-column="3597" selection-end-line="0" selection-end-column="3606" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/sources/bat.js_deObfuscated">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2885">
-          <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/RESULTS.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="83" column="12" lean-forward="false" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/sources/w7jb2mql1engtxycifo2y6xyr9udkpzx_deObfuscated">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="320" column="40" lean-forward="false" selection-start-line="320" selection-start-column="34" selection-end-line="320" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/sources/WFFuSp01RTP9g0jTO7oRA.js_deObfuscated">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18532">
-          <caret line="319" column="29" lean-forward="true" selection-start-line="319" selection-start-column="29" selection-end-line="319" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/sources/uwt.js_deObfuscated">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-702">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/6/21:16:22.037Z/sources/async.js_deObfuscated">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6426">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/async.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/stubhub.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="362" column="24" lean-forward="false" selection-start-line="362" selection-start-column="24" selection-end-line="362" selection-end-column="24" />
           <folding />
         </state>
       </provider>

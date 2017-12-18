@@ -27,7 +27,7 @@ function findTutsPlusLink() {
 var webdriver = require('selenium-webdriver');
 const chrome = require('selenium-webdriver/chrome');
 var chromeOptions = new chrome.Options();
-chromeOptions.addArguments(["--start-maximized"]);
+chromeOptions.addArguments(["--start-maximized", "user-data-dir=/home/vlot/google-chrome/Default", "--incognito"]);
 //chromeOptions.addArguments(['--disable-extensions', "--start-maximized", "--disable-local-storage", "user-data-dir=/home/vlot/google-chrome/Default"]);
 
 function downloadFile(file_url, index){
@@ -75,7 +75,7 @@ function gatherResults(name, data){
         if (!outputResult[name])
             outputResult[name] = {};
 
-        if (!outputResult[name][topic]){
+        if (topic && !outputResult[name][topic]){
             outputResult[name][topic] = { "original": {}, "deObfuscated":{}}
         }
     }
@@ -96,6 +96,22 @@ function gatherResults(name, data){
             //  console.log('gatherresults', pattern, (outputResult[topic]) ? outputResult[topic].deObfuscated[pattern] : '', outputResult[topic] ?  outputResult[topic].original[pattern] : '');
         });
     });
+
+    const pattern = /[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}/g
+    const uglyIp = data.match(pattern);
+    const beautyIp = beautifiedData.match(pattern);
+
+    if (uglyIp && uglyIp.length > 0){
+        prerequists();
+        outputResult[name]['originalIp'] = JSON.stringify(uglyIp);
+        console.log(JSON.stringify(uglyIp));
+    }
+    if (beautyIp && beautyIp.length > 0){
+        prerequists();
+        outputResult[name]['deObfuscatedIp'] = JSON.stringify(beautyIp);
+        console.log(JSON.stringify(beautyIp));
+    }
+
     return beautifiedData;
 }
 
@@ -124,7 +140,7 @@ function deObfuscate(fileName){
                 console.log('results could not be written', ex);
             }
             finally{
-                browser.quit();
+              //  browser.quit();
             }
         }
     });
@@ -134,8 +150,7 @@ var browser = new webdriver.Builder().usingServer().withCapabilities(chromeOptio
 function closeBrowser() {
     setTimeout(function(){
         console.log ('Searching for elemens....')
-
-        //Scripts
+            //Scripts
         browser.findElements(webdriver.By.tagName('script')).then(function(el){
             if (el) {
                 pending = el.length + 1; //source page
@@ -174,7 +189,8 @@ function handleFailure(err) {
     closeBrowser();
 }
 
-const seed = {"URL": "https://stubhub.com", "name": "stubhub"};
+const seed = {"URL": "https://stubhub.com", "name": "stubhub", "searchElement": "app-container"};
+//const seed1 = {"URL": "http://www.infojobs.net", "name": "infojobs", "searchElement": "logo-home-1"};
 
 constructPath('./scripts/' + seed.name + '/', function(oPath){
     browser.get(seed.URL);
