@@ -27,8 +27,8 @@ function findTutsPlusLink() {
 var webdriver = require('selenium-webdriver');
 const chrome = require('selenium-webdriver/chrome');
 var chromeOptions = new chrome.Options();
-chromeOptions.addArguments(["--start-maximized", "user-data-dir=/home/vlot/google-chrome/Default", "--incognito"]);
-//chromeOptions.addArguments(['--disable-extensions', "--start-maximized", "--disable-local-storage", "user-data-dir=/home/vlot/google-chrome/Default"]);
+chromeOptions.addArguments(["--start-maximized", "user-data-dir=/home/vlot/google-chrome/Default"]);
+//chromeOptions.addArguments(['--disable-extensions', "--start-maximized", "--disable-local-storage", "user-data-dir=/home/vlot/google-chrome/Default", "--incognito"]);
 
 function downloadFile(file_url, index){
     try{
@@ -93,31 +93,47 @@ function gatherResults(name, data){
                     outputResult[name][topic].deObfuscated[pattern] = true;
                 }
             }
-            //  console.log('gatherresults', pattern, (outputResult[topic]) ? outputResult[topic].deObfuscated[pattern] : '', outputResult[topic] ?  outputResult[topic].original[pattern] : '');
+             //console.log('gatherresults', pattern, (outputResult[topic]) ? outputResult[topic].deObfuscated[pattern] : '', outputResult[topic] ?  outputResult[topic].original[pattern] : '');
         });
     });
 
     const pattern = /[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}/g
+    const hexPattern = /\\x([0-9A-Fa-f]{2})/g;
     const uglyIp = data.match(pattern);
+    const isHex = beautifiedData.match(hexPattern);
     const beautyIp = beautifiedData.match(pattern);
 
     if (uglyIp && uglyIp.length > 0){
         prerequists();
         outputResult[name]['originalIp'] = JSON.stringify(uglyIp);
-        console.log(JSON.stringify(uglyIp));
+       // console.log(JSON.stringify(uglyIp));
     }
     if (beautyIp && beautyIp.length > 0){
         prerequists();
         outputResult[name]['deObfuscatedIp'] = JSON.stringify(beautyIp);
-        console.log(JSON.stringify(beautyIp));
+       // console.log(JSON.stringify(beautyIp));
     }
+    if (isHex && isHex.length > 0)
+    {
+        let hexTranslated = '';
+        _.each(isHex, function(hex){
+            hexTranslated += hex.replace(/\\x([0-9A-Fa-f]{2})/g, function() {
+                return String.fromCharCode(parseInt(arguments[1], 16));
+            });
+        });
 
+        if (hexTranslated.length > 0){
+            //console.log('hextrans', hexTranslated);
+            gatherResults(name, hexTranslated);
+        }
+    }
+    //console.log('output results', JSON.stringify(outputResult, null, 2));
     return beautifiedData;
 }
 
 function deObfuscate(fileName){
     const input = sourcePath + '/' + fileName;
-    const targetPath = sourcePath + '/' + fileName + '_deObfuscated';
+    const targetPath = sourcePath + '/' + fileName + '_deObfuscated.js';
     fs.readFile(input, 'utf8', function (err, data) {
         if (err) {
             throw err;
@@ -158,7 +174,7 @@ function closeBrowser() {
                 //Main page
                 browser.getPageSource().then(function(indexHtml){
                     const sourcePageFileName = 'index.html';
-                    fs.writeFileSync(sourcePath + '/' + sourcePageFileName, JSON.stringify(indexHtml, undefined, 2));
+                    fs.writeFileSync(sourcePath + '/' + sourcePageFileName, indexHtml, { encoding: 'utf8' });
                     deObfuscate(sourcePageFileName);
                 });
                                 
@@ -170,8 +186,8 @@ function closeBrowser() {
                         }
                         else{
                             webElement.getAttribute('outerHTML').then(function(html){
-                                const fileName = 'inner_script' + Math.floor(Math.random() * 1024) + pending + '.js';
-                                fs.writeFileSync(sourcePath + '/' + fileName, JSON.stringify(html, undefined, 2));
+                                const fileName = 'inner_script' + Math.floor(Math.random() * 1024) + pending + '.html';
+                                fs.writeFileSync(sourcePath + '/' + fileName, html);
                                 deObfuscate(fileName);
 
                             });
@@ -189,10 +205,19 @@ function handleFailure(err) {
     closeBrowser();
 }
 
+// fs.readFile('scripts/async.js', 'utf8', function (err, data) {
+//     if (err) {
+//         throw err;
+//     }
+//     const beautifiedData = gatherResults('async.js', data);
+// });
+// return;
+
 const seed = {"URL": "https://stubhub.com", "name": "stubhub", "searchElement": "app-container"};
+//const seed = {"URL": "http://localhost:63342/selenium/artefacts/config2/chrome_BLOCKED/stubhub.html?_ijt=p40grf6712n1q8rta19dot435c", "name": "stubhub", "searchElement": "app-container"};
 //const seed1 = {"URL": "http://www.infojobs.net", "name": "infojobs", "searchElement": "logo-home-1"};
 
-constructPath('./scripts/' + seed.name + '/', function(oPath){
+constructPath('./scripts/stubhub/2017' + seed.name + '/', function(oPath){
     browser.get(seed.URL);
     browser.wait(findTutsPlusLink, 600000).then(closeBrowser, handleFailure);
 // browser.findElement(webdriver.By.name('q')).sendKeys('tuts+ code');
