@@ -66,7 +66,7 @@ function checkPattern(data, pattern){
 }
 
 function gatherResults(name, data){
-    const patternTopics = ["Distill", "Captcha", "WebBot", "Navigator", "Browser", "Graphics"]
+    const patternTopics = ["Distil", "Captcha", "WebBot", "Navigator", "Browser", "Graphics"]
     const beautifiedData = (beautify(data, { indent_size: 2 }));
     if (!beautifiedData)
         console.log('could not deobfuscate', name);
