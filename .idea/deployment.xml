@@ -1,4 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="stubhub" />
+  <component name="PublishConfigData" serverName="stubhub">
+    <serverData>
+      <paths name="server">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/server/index.html" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="stubhub">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/stubhub" local="$PROJECT_DIR$" web="/selenium" />
+            <mapping local="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
 </project>

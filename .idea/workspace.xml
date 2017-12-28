@@ -1,16 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/scripts/botarray.js" line="18" mnemonic="9" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3b56062f-4c21-4e93-aca6-8e1930862aa3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/unknown_70" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/async_translated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/bad_clean_stubhub_request" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/good_clean_stubhub_request.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/1.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/7219.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/7219.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/WFFuSp01RTP9g0jTO7oRA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/WFFuSp01RTP9g0jTO7oRA.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/adsct" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/adsct_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/aksb.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/aksb.min.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/async.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/atgsvcs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/atgsvcs.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/bat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/bat.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/beacon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/beacon.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/common-build-delay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/common-build-delay.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/common-lib-0.3.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/common-lib-0.3.0.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/common-main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/common-main.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/conversion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/conversion.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/fbds.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/fbds.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/fs.trigger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/fs.trigger.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/fs.utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/fs.utils.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/gateway.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/gateway.min.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/gtm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/gtm.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/i18n-format-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/i18n-format-config.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/i18nPropsForScripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/i18nPropsForScripts.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/index.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script1671.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script1671.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script19771.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script19771.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script20371.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script20371.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script3471.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script3471.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script39271.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script39271.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script39871.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script39871.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script41371.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script41371.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script48871.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script48871.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script49971.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script49971.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script50371.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script50371.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script5371.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script5371.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script54971.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script54971.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script55171.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script55171.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script56471.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script56471.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script59571.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script59571.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script61571.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script61571.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script63071.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script63071.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script6471.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script6471.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script7371.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script7371.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script74171.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script74171.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script74271.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script74271.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script74871.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script74871.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script80171.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script80171.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script8071.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script8071.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script80971.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script80971.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script87771.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script87771.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script88071.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script88071.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script94671.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script94671.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script97271.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script97271.html_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/main.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/module-app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/module-app.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/module-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/module-common.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/module-delay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/module-delay.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/module-seasonal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/module-seasonal.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/quantum-stubhub.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/quantum-stubhub.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/sdk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/sdk.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/show_ads.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/show_ads.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/siema.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/siema.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/stubhub-ui-performer-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/stubhub-ui-performer-min.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/templates-bundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/templates-bundle.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/track.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/track.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/unknown_70_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/uwt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/uwt.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/vsapi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/vsapi.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/vsopts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/vsopts.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/w7jb2mql1engtxycifo2y6xyr9udkpzx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/w7jb2mql1engtxycifo2y6xyr9udkpzx_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/xd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/xd.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/zwxsutztwbeffxbyzcquv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/zwxsutztwbeffxbyzcquv.js_deObfuscated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/FromProxyFiddler/Request_rootURL.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/webServers.xml" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/artefacts/config1/chrome/AKSB.js" afterPath="$PROJECT_DIR$/artefacts/config1/chrome/AKSB.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/artefacts/config1/chrome/nonblocked_stubhub.html" afterPath="$PROJECT_DIR$/artefacts/config1/chrome/nonblocked_stubhub.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/AKSB.js" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/AKSB.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/stubhub.html" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/stubhub.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/artefacts/config2/firefox/Global_Context.js" afterPath="$PROJECT_DIR$/artefacts/config2/firefox/Global_Context.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/artefacts/config2/firefox/nonblocked_stubhub.html" afterPath="$PROJECT_DIR$/artefacts/config2/firefox/nonblocked_stubhub.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/detection.js" afterPath="$PROJECT_DIR$/detection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/patterns.json" afterPath="$PROJECT_DIR$/patterns.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,51 +163,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="stubhub.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/stubhub.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="362" column="24" lean-forward="false" selection-start-line="362" selection-start-column="24" selection-end-line="362" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="async.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/6/21:16:22.037Z/sources/async.js">
+      <file leaf-file-name="async_translated.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/async_translated.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="2954" lean-forward="false" selection-start-line="0" selection-start-column="2954" selection-end-line="0" selection-end-column="2954" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="async.js_deObfuscated" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/6/21:16:22.037Z/sources/async.js_deObfuscated">
+      <file leaf-file-name="1.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6426">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="async.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/async.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zwxsutztwbeffxbyzcquv.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/zwxsutztwbeffxbyzcquv.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="18">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -86,27 +195,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>selenium-</find>
-      <find>.length</find>
-      <find>webd</find>
-      <find>selen</find>
-      <find>plain</find>
-      <find>root</find>
-      <find>src:</find>
-      <find>cap</find>
-      <find>http</find>
-      <find>naviga</find>
-      <find>captcha</find>
-      <find>funcap</find>
-      <find>window.navigator</find>
-      <find>[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}</find>
-      <find>navigator</find>
-      <find>The quick brown fox jumps over the lazy dog</find>
-      <find>distill</find>
-      <find>captch</find>
-      <find>app-container</find>
-      <find>browser.quit</find>
-      <find>seed1</find>
+      <find>siema</find>
+      <find>style</find>
+      <find>i18n</find>
+      <find>deobf</find>
+      <find>_deobf</find>
+      <find>selenium</find>
+      <find>gtm.js</find>
+      <find>https://analytics.twitter.com</find>
+      <find>innerscript</find>
+      <find>console.log</find>
+      <find>outputResult</find>
+      <find>ver:1.26,ke_cnt_lmt:150,mme_cnt_lmt:25,mduce_cnt_lmt:75,pme_cnt_lmt:25,pduce_cnt_lmt:25,tme_cnt_lmt:25,tduce_cnt_lmt:25,doe_cnt_lmt:10,dme_cnt_lmt:10,vc_cnt_lmt:100,doa_throttle:0,dma_throttle:0,session_id:_ac[195],js_post:!1,loc:_ac[538],cf_url:(_ac[173]===document[_ac[311]][_ac[435]]?_ac[205]:_ac[491])+_ac[472],auth:_ac[538],api_public_key:null,aj_lmt_doact:1,aj_lmt_dmact:1,aj_lmt_tact:1,ce_js_post:0,init_time:0,informinfo:_ac[538],prevfid:-1,fidcnt:0,sensor_data:0,ins:null,cns:null,enGetLoc:0,enReadDocUrl:0,disFpCalOnTimeout:0,xagg:-1,pen:-1,brow:_ac[538],browver:_ac[538],psub:_ac[429],lang:_ac[429],prod:_ac[429],plen:-1,doadma_en:0,sdfn:[],d2:0,d3:0,thr:0,cs:_ac[58],hn:_ac[21],z1:0,o9:0,vc:_ac[538],y1:2016,ta:0,tst:-1,t_tst:0,ckie:_ac[274],n_ck:_ac[265],ckurl:0,bm:!1,mr:_ac[474],altFonts:!1,rst:!1,runFonts:!0,ir:function()</find>
+      <find>[436]</find>
+      <find>webbot</find>
+      <find>[491</find>
+      <find>==</find>
+      <find>sed(</find>
+      <find>write</find>
+      <find>fingerprint</find>
+      <find>_abck</find>
+      <find>_data</find>
+      <find>bm_sz</find>
+      <find>apicall</find>
+      <find>\x64\x69\x73\x74\x69\x6c\x49\x64\x65\x6e\x74\x69\x66\x69\x63\x61\x74\x69\x6f\x6e\x42\x6c\x6f\x63\x6b</find>
+      <find>b</find>
+      <find>distil</find>
+      <find>distilIdentificationBlock</find>
+      <find>quantum</find>
+      <find>setjavascri</find>
+      <find>setbm</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$</dir>
@@ -115,6 +233,16 @@
       <dir>$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/sources</dir>
       <dir>$PROJECT_DIR$/scripts/stubhub/2017/11/6/20:39:40.397Z/sources</dir>
       <dir>$PROJECT_DIR$/scripts/stubhub/2017/11/6/21:16:22.037Z</dir>
+      <dir>$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/sources</dir>
+      <dir>$PROJECT_DIR$/scripts/stubhub/2017stubhub/2017/11/24/07:49:02.317Z/sources</dir>
+      <dir>$PROJECT_DIR$/scripts/stubhub/2017stubhub/2017/11/27/11:15:37.932Z/sources</dir>
+      <dir>$PROJECT_DIR$/scripts/stubhub/2017stubhub/2017/11/27/11:30:12.530Z/sources</dir>
+      <dir>$PROJECT_DIR$/scripts/stubhub/2017stubhub/2017/11/27/11:15:37.932Z</dir>
+      <dir>$PROJECT_DIR$/scripts/stubhub/2017stubhub/2017</dir>
+      <dir>$PROJECT_DIR$/scripts/stubhub/2017stubhub/2017/11/27/19:13:41.518Z/sources</dir>
+      <dir>$PROJECT_DIR$/artefacts/config2</dir>
+      <dir>$PROJECT_DIR$/scripts/stubhub/2017stubhub/2017/11/27/20:27:36.201Z/sources</dir>
+      <dir>$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -129,8 +257,6 @@
         <option value="$PROJECT_DIR$/profiles/profile01.txt" />
         <option value="$PROJECT_DIR$/node_modules/dummy.txt" />
         <option value="$PROJECT_DIR$/dummy.txt" />
-        <option value="$PROJECT_DIR$/patterns.json" />
-        <option value="$PROJECT_DIR$/detection.js" />
         <option value="$PROJECT_DIR$/artefacts/firefox/nonblocked_stubhub.html" />
         <option value="$PROJECT_DIR$/artefacts/firefox/AKSB.js" />
         <option value="$PROJECT_DIR$/artefacts/firefox/Global_Context.js" />
@@ -138,6 +264,29 @@
         <option value="$PROJECT_DIR$/artefacts/chrome(Config1)/AKSB.js" />
         <option value="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/stubhub.html" />
         <option value="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/AKSB.js" />
+        <option value="$PROJECT_DIR$/scripts/stubhub/2017/11/19/19:24:41.530Z/sources/zwxsutztwbeffxbyzcquv.js_deObfuscated" />
+        <option value="$PROJECT_DIR$/scripts/stubhub/2017/11/19/19:24:41.530Z/sources/zwxsutztwbeffxbyzcquv.js" />
+        <option value="$PROJECT_DIR$/zwxsutztwbeffxbyzcquv.js" />
+        <option value="$PROJECT_DIR$/server/index.html" />
+        <option value="$PROJECT_DIR$/artefacts/config1/chrome/globalconfig.js" />
+        <option value="$PROJECT_DIR$/artefacts/config1/chrome/asyncHex.js" />
+        <option value="$PROJECT_DIR$/artefacts/config1/chrome/asyncHex.text" />
+        <option value="$PROJECT_DIR$/artefacts/config2/chrome/index.html" />
+        <option value="$PROJECT_DIR$/patterns.json" />
+        <option value="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/captcha.html" />
+        <option value="$PROJECT_DIR$/artefacts/config2/chrome/s.html" />
+        <option value="$PROJECT_DIR$/artefacts/config2/i.html" />
+        <option value="$PROJECT_DIR$/artefacts/config2/chrome/i.html" />
+        <option value="$PROJECT_DIR$/artefacts/config2/chrome/s_index.html" />
+        <option value="$PROJECT_DIR$/artefacts/config2/chrome/scraped_index.html" />
+        <option value="$PROJECT_DIR$/detection.js" />
+        <option value="$PROJECT_DIR$/scripts/indexFile.txt" />
+        <option value="$PROJECT_DIR$/scripts/please.js" />
+        <option value="$PROJECT_DIR$/scripts/async_translated.js" />
+        <option value="$PROJECT_DIR$/scripts/botarray.js" />
+        <option value="$PROJECT_DIR$/scripts/FromProxyFiddler/Request_rootURL.txt" />
+        <option value="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/bad_clean_stubhub_request" />
+        <option value="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/good_clean_stubhub_request.txt" />
       </list>
     </option>
   </component>
@@ -158,10 +307,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1" />
-    <option name="y" value="25" />
-    <option name="width" value="639" />
-    <option name="height" value="413" />
+    <option name="x" value="100" />
+    <option name="y" value="27" />
+    <option name="width" value="1523" />
+    <option name="height" value="796" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -172,13 +321,14 @@
       <showLibraryContents />
       <hideEmptyPackages />
       <abbreviatePackageNames />
-      <autoscrollToSource />
+      <autoscrollToSource ProjectPane="false" />
       <autoscrollFromSource ProjectPane="true" />
       <sortByType />
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -196,19 +346,6 @@
               <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
               <item name="selenium" type="462c0819:PsiDirectoryNode" />
               <item name="artefacts" type="462c0819:PsiDirectoryNode" />
-              <item name="config1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="artefacts" type="462c0819:PsiDirectoryNode" />
-              <item name="config1" type="462c0819:PsiDirectoryNode" />
-              <item name="chrome" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="artefacts" type="462c0819:PsiDirectoryNode" />
               <item name="config2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -221,70 +358,43 @@
             <path>
               <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
               <item name="selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="artefacts" type="462c0819:PsiDirectoryNode" />
-              <item name="config2" type="462c0819:PsiDirectoryNode" />
-              <item name="firefox" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
               <item name="selenium" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
-              <item name="stubhub" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
-              <item name="stubhub" type="462c0819:PsiDirectoryNode" />
-              <item name="2017" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
-              <item name="stubhub" type="462c0819:PsiDirectoryNode" />
-              <item name="2017" type="462c0819:PsiDirectoryNode" />
-              <item name="11" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
-              <item name="stubhub" type="462c0819:PsiDirectoryNode" />
-              <item name="2017" type="462c0819:PsiDirectoryNode" />
-              <item name="11" type="462c0819:PsiDirectoryNode" />
-              <item name="6" type="462c0819:PsiDirectoryNode" />
+              <item name="FromProxyFiddler" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/vlot/selenium/patterns.json&#10;resu&#9;FILE&#9;file:///home/vlot/selenium/scripts/stubhub/2017/11/4/19:08:56.291Z/RESULTS.json" />
+    <property name="SearchEverywhereHistoryKey" value="detection&#9;FILE&#9;file:///home/vlot/selenium/detection.js&#10;formatco&#9;ACTION&#9;ReformatCode&#10;resu&#9;FILE&#9;file:///home/vlot/selenium/scripts/stubhub/2017/11/4/19:08:56.291Z/RESULTS.json" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/artefacts/config2" />
-      <recent name="$PROJECT_DIR$/artefacts/config1" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED" />
+      <recent name="$PROJECT_DIR$/scripts" />
+      <recent name="$PROJECT_DIR$/artefacts/config2/chrome" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$USER_HOME$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/artefacts/config2/chrome" />
+      <recent name="$PROJECT_DIR$/artefacts/config2" />
+      <recent name="$PROJECT_DIR$/artefacts/config1" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -299,6 +409,25 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html?_ijt=3pl68iv2ej7qtuha7u0o8ifpha (1)">
+    <configuration name="index.html?_ijt=3pl68iv2ej7qtuha7u0o8ifpha (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" uri="http://localhost:63342/selenium/server/index.html?_ijt=3pl68iv2ej7qtuha7u0o8ifpha" />
+    <configuration name="index.html?_ijt=3pl68iv2ej7qtuha7u0o8ifpha" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/selenium/server/index.html?_ijt=3pl68iv2ej7qtuha7u0o8ifpha" />
+    <configuration name="stubhub.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/selenium/stubhub.html" />
+    <configuration name="stubhub.html?_ijt=bd0gnj8ftdgugqlol8ov8hqtj9" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/stubhub.html?_ijt=bd0gnj8ftdgugqlol8ov8hqtj9" />
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html?_ijt=3pl68iv2ej7qtuha7u0o8ifpha (1)" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.stubhub.html?_ijt=bd0gnj8ftdgugqlol8ov8hqtj9" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.stubhub.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html?_ijt=3pl68iv2ej7qtuha7u0o8ifpha" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html?_ijt=3pl68iv2ej7qtuha7u0o8ifpha" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.stubhub.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.stubhub.html?_ijt=bd0gnj8ftdgugqlol8ov8hqtj9" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -320,17 +449,19 @@
       <workItem from="1512071447141" duration="15909000" />
       <workItem from="1512414478638" duration="17433000" />
       <workItem from="1513110824519" duration="1684000" />
-      <workItem from="1513624854083" duration="5346000" />
+      <workItem from="1513624854083" duration="51838000" />
+      <workItem from="1514453181721" duration="1430000" />
+      <workItem from="1514455829870" duration="79000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63434000" />
+    <option name="totallyTimeSpent" value="111435000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="25" width="1853" height="950" extended-state="6" />
+    <frame x="100" y="27" width="1853" height="1415" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18618457" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.282245" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -343,8 +474,9 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21377672" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -377,210 +509,350 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scripts/2017/11/3/09:44:35.065Z/adsct" />
-    <entry file="file://$PROJECT_DIR$/test.js">
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/sources/module-delay.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        <state relative-caret-position="272">
+          <caret line="0" column="14868" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="17999" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/3/11:04:25.305Z/1.js_results.json" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/3/11:10:24.775Z/1.js_results.json" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/3/11:41:35.016Z/RESULTS.json" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/19:08:56.291Z/adsct" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/19:08:56.291Z/quantum-stubhub.js" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/19:08:56.291Z/RESULTS.json" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/19:08:56.291Z/show_ads.js_deObfuscated" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/19:12:20.494Z/RESULTS.json" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/19:46:38.537Z/RESULTS.json" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:00:18.556Z/inner_script0.js_deObfuscated" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:00:18.556Z/inner_script0.js" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:04:19.308Z/json" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:04:19.308Z/RESULTS.json" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:19:46.016Z/RESULTS.json" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:32:35.897Z/index.html" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:32:35.897Z/index.html_deObfuscated" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:32:35.897Z/vsopts.js_deObfuscated" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:32:35.897Z/RESULTS.json" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/sources/bat.js" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/sources/bat.js_deObfuscated" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/sources/WFFuSp01RTP9g0jTO7oRA.js_deObfuscated" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/sources/uwt.js_deObfuscated" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/sources/w7jb2mql1engtxycifo2y6xyr9udkpzx_deObfuscated" />
-    <entry file="file://$PROJECT_DIR$/profiles/profile01.txt">
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/sources/module-seasonal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="123" lean-forward="false" selection-start-line="0" selection-start-column="123" selection-end-line="0" selection-end-column="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/sources/PAGE_LOAD">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/sources/pubads_impl_170.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="0" column="2768" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/sources/pubads_impl_rendering_170.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="0" column="2717" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/sources/quantum-stubhub.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/sources/RightNow.Client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="9" column="1540" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="161" selection-end-column="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/sources/sdk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="21" column="683" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="189" selection-end-column="444" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/sources/show_ads.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/sources/siema.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <caret line="93" column="20" lean-forward="false" selection-start-line="93" selection-start-column="19" selection-end-line="93" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/4/20:50:11.452Z/RESULTS.json" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/6/20:39:40.397Z/RESULTS.json" />
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/6/20:39:40.397Z/sources/fs.trigger.js_deObfuscated" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/sources/siema.js_deObfuscated">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/sources/stubhub-ui-performer-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="1" column="1800" lean-forward="true" selection-start-line="1" selection-start-column="1800" selection-end-line="1" selection-end-column="1800" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/sources/templates-bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="457" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/sources/unknown_72">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/sources/track.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/sources/uwt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5158" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/sources/vsapi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/sources/vsopts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="196" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/sources/w7jb2mql1engtxycifo2y6xyr9udkpzx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="14" column="170" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="249" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/sources/WFFuSp01RTP9g0jTO7oRA.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="1" column="2289" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="8420" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/sources/xd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/sources/zwxsutztwbeffxbyzcquv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/sources/async.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432">
+          <caret line="0" column="5709" lean-forward="false" selection-start-line="0" selection-start-column="5691" selection-end-line="0" selection-end-column="5737" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/21/10:13:47.823Z/RESULTS.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/please.js" />
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017stubhub/2017/11/24/07:49:02.317Z/RESULTS.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="150" column="11" lean-forward="false" selection-start-line="150" selection-start-column="5" selection-end-line="150" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/indexFile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23643" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/patterns.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="643">
-          <caret line="47" column="5" lean-forward="false" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/6/21:16:22.037Z/sources/7219.js_deObfuscated">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1218">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/6/21:16:22.037Z/sources/7219.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/6/21:16:22.037Z/sources/1.js">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/6/21:16:22.037Z/sources/1.js_deObfuscated">
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/23/15:17:29.876Z/RESULTS.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="378">
+          <caret line="95" column="26" lean-forward="false" selection-start-line="95" selection-start-column="26" selection-end-line="95" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/infojobs/2017/11/6/21:27:50.952Z/sources/schbstddstl.js">
+    <entry file="file://$PROJECT_DIR$/scripts/botarray.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="450">
+          <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/infojobs/2017/11/6/21:27:50.952Z/sources/schbstddstl.js_deObfuscated">
+    <entry file="file://$PROJECT_DIR$/artefacts/config1/chrome/asyncHex.text" />
+    <entry file="file://$PROJECT_DIR$/artefacts/config1/chrome/globalconfig.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-367">
-          <caret line="564" column="126" lean-forward="false" selection-start-line="564" selection-start-column="8" selection-end-line="564" selection-end-column="126" />
+        <state relative-caret-position="468">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/6/21:16:22.037Z/RESULTS.json">
+    <entry file="file://$PROJECT_DIR$/scripts/async.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+        <state relative-caret-position="-7439">
+          <caret line="0" column="777" lean-forward="false" selection-start-line="0" selection-start-column="777" selection-end-line="0" selection-end-column="777" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/infojobs/2017/11/6/21:27:50.952Z/RESULTS.json">
+    <entry file="file://$PROJECT_DIR$/scripts/FromProxyFiddler/Request_rootURL.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="14" />
+        <state relative-caret-position="702">
+          <caret line="69" column="13" lean-forward="false" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/detection.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="30" column="22" lean-forward="false" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-          <folding />
+        <state relative-caret-position="-50">
+          <caret line="202" column="29" lean-forward="false" selection-start-line="202" selection-start-column="29" selection-end-line="202" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/infojobs/2017/11/7/09:08:22.659Z/RESULTS.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artefacts/config2/firefox/Global_Context.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="55" column="54" lean-forward="false" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artefacts/config2/firefox/nonblocked_stubhub.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="325" column="17" lean-forward="true" selection-start-line="325" selection-start-column="17" selection-end-line="325" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artefacts/config2/firefox/AKSB.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/AKSB.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artefacts/config1/chrome/AKSB.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artefacts/config1/chrome/nonblocked_stubhub.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="355" column="23" lean-forward="true" selection-start-line="355" selection-start-column="23" selection-end-line="355" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/zwxsutztwbeffxbyzcquv.js">
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017stubhub/2017/11/27/11:15:37.932Z/sources/zwxsutztwbeffxbyzcquv.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/6/21:16:22.037Z/sources/async.js">
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017stubhub/2017/11/27/11:15:37.932Z/sources/zwxsutztwbeffxbyzcquv.js_deObfuscated.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/6/21:16:22.037Z/sources/async.js_deObfuscated">
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017stubhub/2017/11/27/11:30:12.530Z/sources/zwxsutztwbeffxbyzcquv.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6426">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017stubhub/2017/11/27/11:30:12.530Z/sources/distil_r_captcha_util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017stubhub/2017/11/27/11:30:12.530Z/sources/distil_r_captcha_util.js_deObfuscated.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017stubhub/2017/11/27/11:30:12.530Z/sources/unknown_3_deObfuscated.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017stubhub/2017/11/27/11:30:12.530Z/sources/unknown_3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017stubhub/2017/11/27/11:30:12.530Z/sources/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/bad_clean_stubhub_request">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="55" column="1" lean-forward="false" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/async.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="46124" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/stubhub/2017/11/6/21:04:02.268Z/sources/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1128" lean-forward="false" selection-start-line="0" selection-start-column="1128" selection-end-line="0" selection-end-column="1128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/zwxsutztwbeffxbyzcquv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="25950" lean-forward="false" selection-start-line="0" selection-start-column="25950" selection-end-line="0" selection-end-column="25950" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/good_clean_stubhub_request.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="55" column="1" lean-forward="false" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/async_translated.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="0" column="32957" lean-forward="false" selection-start-line="0" selection-start-column="32957" selection-end-line="0" selection-end-column="32957" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/async_translated.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2954" lean-forward="false" selection-start-line="0" selection-start-column="2954" selection-end-line="0" selection-end-column="2954" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/stubhub.html">
+    <entry file="file://$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="362" column="24" lean-forward="false" selection-start-line="362" selection-start-column="24" selection-end-line="362" selection-end-column="24" />
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
