@@ -32,15 +32,17 @@ chromeOptions.addArguments(["--start-maximized", "user-data-dir=/home/vlot/googl
 
 function downloadFile(file_url, index){
     try{
+        const secure = file_url.toLowerCase().startsWith('https') ? true : false;
+
         var options = {
             host: url.parse(file_url).host,
-            port: 80,
+            port: 80,//secure ? 443 : 80,
             path: url.parse(file_url).pathname
         };
 
         var file_name = url.parse(file_url).pathname.split('/').pop() || ('unknown_'+ index);
         var file = fs.createWriteStream(sourcePath + '/' + file_name );
-        var module = file_url.toLowerCase().startsWith('https') ? https : http;
+        var module = secure ? https : http;
         module.get(options, function(res) {
             res.on('data', function(data) {
                 file.write(data);
@@ -132,7 +134,11 @@ function gatherResults(name, data){
 }
 
 function deObfuscate(fileName){
-    const input = sourcePath + '/' + fileName;
+    var input;
+    if (fileName === 'zwxsutztwbeffxbyzcquv.js')
+        input = './fromBrowser/' + fileName;
+    else
+        input = sourcePath + '/' + fileName;
     const targetPath = sourcePath + '/' + fileName + '_deObfuscated.js';
     fs.readFile(input, 'utf8', function (err, data) {
         if (err) {

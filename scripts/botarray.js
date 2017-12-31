@@ -21,7 +21,7 @@ fs.readFile('async.js', 'utf8', function (err, data) {
         const replacePart = '_ac' + '\\[' + i + ']';
         const re = new RegExp(replacePart,"g");
         console.log('replacing', re, _ac[i]);
-        hoi = hoi.replace(re, _ac[i]);
+        hoi = hoi.replace(re, '"' + _ac[i] + '"');
         console.log('match', hoi);
         fs.appendFileSync('indexFile.txt', i + ' @@ ' + hexPiece + '\n');
         // _.each(patterns.searchPatterns['WebBot'], function(pattern){

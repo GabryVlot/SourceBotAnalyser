@@ -1,0 +1,26 @@
+0 @@ Internet Explorer
+1 @@ Firefox
+2 @@ Chrome
+3 @@ Chromium
+4 @@ Safari
+5 @@ MacIntel
+6 @@ Win32
+7 @@ Win64
+8 @@ Windows
+9 @@ WinNT
+10 @@ OSX
+11 @@ Linux
+12 @@ eval
+0 @@ Internet Explorer
+1 @@ Firefox
+2 @@ Chrome
+3 @@ Chromium
+4 @@ Safari
+5 @@ MacIntel
+6 @@ Win32
+7 @@ Win64
+8 @@ Windows
+9 @@ WinNT
+10 @@ OSX
+11 @@ Linux
+12 @@ eval
