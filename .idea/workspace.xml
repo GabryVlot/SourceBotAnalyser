@@ -5,150 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b56062f-4c21-4e93-aca6-8e1930862aa3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/unknown_70" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/async_translated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/bad_clean_stubhub_request" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/good_clean_stubhub_request.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/1.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/7219.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/7219.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/WFFuSp01RTP9g0jTO7oRA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/WFFuSp01RTP9g0jTO7oRA.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/adsct" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/adsct_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/aksb.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/aksb.min.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/async.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/atgsvcs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/atgsvcs.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/bat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/bat.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/beacon.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/beacon.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/common-build-delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/common-build-delay.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/common-lib-0.3.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/common-lib-0.3.0.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/common-main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/common-main.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/conversion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/conversion.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/fbds.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/fbds.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/fs.trigger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/fs.trigger.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/fs.utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/fs.utils.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/gateway.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/gateway.min.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/gtm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/gtm.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/i18n-format-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/i18n-format-config.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/i18nPropsForScripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/i18nPropsForScripts.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/index.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script1671.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script1671.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script19771.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script19771.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script20371.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script20371.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script3471.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script3471.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script39271.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script39271.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script39871.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script39871.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script41371.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script41371.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script48871.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script48871.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script49971.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script49971.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script50371.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script50371.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script5371.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script5371.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script54971.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script54971.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script55171.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script55171.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script56471.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script56471.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script59571.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script59571.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script61571.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script61571.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script63071.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script63071.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script6471.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script6471.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script7371.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script7371.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script74171.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script74171.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script74271.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script74271.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script74871.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script74871.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script80171.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script80171.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script8071.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script8071.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script80971.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script80971.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script87771.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script87771.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script88071.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script88071.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script94671.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script94671.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script97271.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/inner_script97271.html_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/main.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/module-app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/module-app.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/module-common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/module-common.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/module-delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/module-delay.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/module-seasonal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/module-seasonal.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/quantum-stubhub.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/quantum-stubhub.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/sdk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/sdk.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/show_ads.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/show_ads.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/siema.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/siema.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/stubhub-ui-performer-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/stubhub-ui-performer-min.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/templates-bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/templates-bundle.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/track.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/track.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/unknown_70_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/uwt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/uwt.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/vsapi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/vsapi.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/vsopts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/vsopts.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/w7jb2mql1engtxycifo2y6xyr9udkpzx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/w7jb2mql1engtxycifo2y6xyr9udkpzx_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/xd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/xd.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/zwxsutztwbeffxbyzcquv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artefacts/config2/chrome_BLOCKED/sources/zwxsutztwbeffxbyzcquv.js_deObfuscated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/FromProxyFiddler/Request_rootURL.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/webServers.xml" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -340,31 +196,7 @@
             <path>
               <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
               <item name="selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="artefacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="artefacts" type="462c0819:PsiDirectoryNode" />
-              <item name="config2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="artefacts" type="462c0819:PsiDirectoryNode" />
-              <item name="config2" type="462c0819:PsiDirectoryNode" />
-              <item name="chrome_BLOCKED" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
-              <item name="FromProxyFiddler" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -451,12 +283,13 @@
       <workItem from="1513110824519" duration="1684000" />
       <workItem from="1513624854083" duration="51838000" />
       <workItem from="1514453181721" duration="1430000" />
-      <workItem from="1514455829870" duration="79000" />
+      <workItem from="1514455829870" duration="213000" />
+      <workItem from="1514457016059" duration="106000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111435000" />
+    <option name="totallyTimeSpent" value="111675000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="100" y="27" width="1853" height="1415" extended-state="6" />
