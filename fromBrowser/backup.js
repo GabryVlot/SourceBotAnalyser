@@ -589,7 +589,7 @@
                         }
                         else
                         {
-                            var i=document.getElementById("d__fF"),o=["\x73\x65\x72\x69\x66","\x43\x61\x6C\x69\x62\x72\x69","\x43\x61\x6D\x62\x72\x69\x61","\x48\x6F\x65\x66\x6C\x65\x72\x20\x54\x65\x78\x74","\x55\x74\x6F\x70\x69\x61","\x4C\x69\x62\x65\x72\x61\x74\x69\x6F\x6E\x20\x53\x65\x72\x69\x66","\x4E\x69\x6D\x62\x75\x73\x20\x52\x6F\x6D\x61\x6E\x20\x4E\x6F\x39\x20\x4C","\x54\x69\x6D\x65\x73","\x4D\x6F\x6E\x61\x63\x6F","\x54\x65\x72\x6D\x69\x6E\x61\x6C","\x6D\x6F\x6E\x6F\x73\x70\x61\x63\x65","\x43\x6F\x6E\x73\x74\x61\x6E\x74\x69\x61","\x4C\x75\x63\x69\x64\x61\x20\x42\x72\x69\x67\x68\x74","\x44\x65\x6A\x61\x56\x75\x20\x53\x65\x72\x69\x66","\x42\x69\x74\x73\x74\x72\x65\x61\x6D\x20\x56\x65\x72\x61\x20\x53\x65\x72\x69\x66","\x47\x65\x6F\x72\x67\x69\x61","\x53\x65\x67\x6F\x65\x20\x55\x49","\x43\x61\x6E\x64\x61\x72\x61","\x42\x69\x74\x73\x74\x72\x65\x61\x6D\x20\x56\x65\x72\x61\x20\x53\x61\x6E\x73","\x44\x65\x6A\x61\x56\x75\x20\x53\x61\x6E\x73","\x54\x72\x65\x62\x75\x63\x68\x65\x74\x20\x4D\x53","\x56\x65\x72\x64\x61\x6E\x61","\x43\x6F\x6E\x73\x6F\x6C\x61\x73","\x41\x6E\x64\x61\x6C\x65\x20\x4D\x6F\x6E\x6F","\x4C\x75\x63\x69\x64\x61\x20\x43\x6F\x6E\x73\x6F\x6C\x65","\x4C\x75\x63\x69\x64\x61\x20\x53\x61\x6E\x73\x20\x54\x79\x70\x65\x77\x72\x69\x74\x65\x72","\x44\x65\x6A\x61\x56\x75\x20\x53\x61\x6E\x73\x20\x4D\x6F\x6E\x6F","\x42\x69\x74\x73\x74\x72\x65\x61\x6D\x20\x56\x65\x72\x61\x20\x53\x61\x6E\x73\x20\x4D\x6F\x6E\x6F","\x4C\x69\x62\x65\x72\x61\x74\x69\x6F\x6E\x20\x4D\x6F\x6E\x6F","\x4E\x69\x6D\x62\x75\x73\x20\x4D\x6F\x6E\x6F\x20\x4C","\x4D\x6F\x6E\x61\x63\x6F","\x43\x6F\x75\x72\x69\x65\x72\x20\x4E\x65\x77","\x43\x6F\x75\x72\x69\x65\x72"];
+                            var i=document.getElementById("d__fF"),o=["serif","Calibri","Cambria","Hoefler Text","Utopia","Liberation Serif","Nimbus Roman No9 L","Times","Monaco","Terminal","monospace","Constantia","Lucida Bright","DejaVu Serif","Bitstream Vera Serif","Georgia","Segoe UI","Candara","Bitstream Vera Sans","DejaVu Sans","Trebuchet MS","Verdana","Consolas","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L","Monaco","Courier New","Courier"];
                             i.innerHTML="The quick brown fox jumps over the lazy dog.",i.style.fontFamily=o[0];
                             for(var s=i.offsetWidth,r=1;r<o.length;r++)i.style.fontFamily='"'+o[r]+'",'+o[0],s!=i.offsetWidth&&e.fonts.push(o[r])
                         }
@@ -1002,7 +1002,7 @@
 {
 }
 ,[3]);;
-(function(_0x9e50x1)
+(function(window)
     {
         var zwzPIDURL="/zwxsutztwbeffxbyzcquv.js?PID=0B459DF1-2695-3173-882B-64908F679262",
             osArray=["Internet Explorer","Firefox","Chrome","Chromium","Safari","MacIntel","Win32","Win64","Windows","WinNT","OSX","Linux","eval"],
@@ -1013,9 +1013,9 @@
             ,
             _0x9e50x5=false,
             setTimeOutFunction=false,
-            _0x9e50x7=2,
-            _0x9e50x8="d",
-            _0x9e50xa=function()
+            interval=2,
+            d="d",
+            prepareBotLiterals=function()
             {
                 try
                 {
@@ -1042,33 +1042,33 @@
             }
             ,startTracking=function()
             {
-                setTimeOutFunction= setTimeout(startTracking,_0x9e50x7++ * 200);
-                var _0x9e50x16=0,_0x9e50x17=null,_0x9e50x18=null;
-                var _0x9e50x19=["__"+ "driver"+ "_"+ "eval" + "uate","__web"+ "driver"+ "_"+ "eval" + "uate","__s"+ "elenium"+ "_"+ "eval"+ "uate","__fx"+ "driver"+ "_"+ "eval"+ "uate","__"+ "driver"+ "_unwrapped","__web"+ "driver"+ "_unwrapped","__s"+ "elenium"+ "_unwrapped","__fx"+ "driver"+ "_unwrapped","__web"+ "driver"+ "_script_"+ "func"+ "tion","__web"+ "driver"+ "_"+ "script"+ "_"+ "func","__web"+ "driver"+ "_"+ "script"+ "_fn"];
-                var _0x9e50x1a=["_S"+ "elenium"+ "_IDE"+ "_Recorder","_p"+ "hantom","_s"+ "elenium","call"+ "P"+ "hantom","call"+ "S"+ "elenium",_0x9e50x19[+[]][+!![]] + "_"+ "nightmar" + "e"];
+                setTimeOutFunction= setTimeout(startTracking,interval++ * 200);
+                var webBotIntergerRepresentation=0,arrayInstance=null,webBotLiteral=null;
+                var driverArray=["__driver_evaluate","__webdriver_evaluate","__selenium_evaluate","__fxdriver_evaluate","__driver_unwrapped","__webdriver_unwrapped","__selenium_unwrapped","__fxdriver_unwrapped","__webdriver_script_function","__webdriver_script_func","__webdriver_script_fn"];
+                var webBotArray=["_Selenium_IDE_Recorder","_phantom","_selenium","callPhantom","callSelenium","__nightmare"];
                 try
                 {
-                    for(_0x9e50x17 in _0x9e50x1a)
+                    for(arrayInstance in webBotArray)
                     {
-                        _0x9e50x18= _0x9e50x1a[_0x9e50x17];
-                        if(window[_0x9e50x18])
+                        webBotLiteral = webBotArray[arrayInstance];
+                        if(window[webBotLiteral])
                         {
-                            _0x9e50x16= 100+ parseInt(_0x9e50x17)
+                            webBotIntergerRepresentation= 100+ parseInt(webBotInstance)
                         }
                     };
-                    for(_0x9e50x17 in _0x9e50x19)
+                    for(arrayInstance in driverArray)
                     {
-                        _0x9e50x18= _0x9e50x19[_0x9e50x17];
-                        if(window["document"][_0x9e50x18])
+                        webBotLiteral= driverArray[arrayInstance];
+                        if(window["document"][webBotLiteral])
                         {
-                            _0x9e50x16= 200+ parseInt(_0x9e50x17)
+                            webBotIntergerRepresentation= 200+ parseInt(arrarrayInstance)
                         }
                     };
-                    for(_0x9e50x17 in window["document"])
+                    for(arrayInstance in window["document"])
                     {
-                        if(_0x9e50x17["match"](/\$[a-z]dc_/)&& window["document"][_0x9e50x17]["cache_"])
+                        if(arrayInstance["match"](/\$[a-z]dc_/)&& window["document"][arrayInstance]["cache_"])
                         {
-                            _0x9e50x16= "300"
+                            webBotIntergerRepresentation= "300"
                         }
                     }
                 }
@@ -1077,9 +1077,9 @@
                 };
                 try
                 {
-                    if(!_0x9e50x16&& window["external"]&& window["external"].toString()&& (window["external"].toString()["indexOf"]("Sequentum")!=  -1))
+                    if(!webBotIntergerRepresentation&& window["external"]&& window["external"].toString()&& (window["external"].toString()["indexOf"]("Sequentum")!=  -1))
                     {
-                        _0x9e50x16= "400"
+                        webBotIntergerRepresentation= "400"
                     }
                 }
                 catch(e)
@@ -1087,21 +1087,21 @@
                 };
                 try
                 {
-                    if((!_0x9e50x16) && window["document"]["documentElement"]["getAttribute"]("s"+ "elenium"))
+                    if((!webBotIntergerRepresentation) && window["document"]["documentElement"]["getAttribute"]("selenium"))
                     {
-                        _0x9e50x16= "500"
+                        webBotIntergerRepresentation= "500"
                     }
                     else
                     {
-                        if((!_0x9e50x16) && window["document"]["documentElement"]["getAttribute"]("web"+ "driver"))
+                        if((!webBotIntergerRepresentation) && window["document"]["documentElement"]["getAttribute"]("webdriver"))
                         {
-                            _0x9e50x16= "600"
+                            webBotIntergerRepresentation= "600"
                         }
                         else
                         {
-                            if((!_0x9e50x16) && window["document"]["documentElement"]["getAttribute"]("driver"))
+                            if((!webBotIntergerRepresentation) && window["document"]["documentElement"]["getAttribute"]("driver"))
                             {
-                                _0x9e50x16= "700"
+                                webBotIntergerRepresentation= "700"
                             }
                         }
                     }
@@ -1113,26 +1113,26 @@
                 {
                     if((![]) !== _0x9e50x5)
                     {
-                        _0x9e50x8= "e";
-                        _0x9e50x16= 1
+                        d= "e";
+                        webBotIntergerRepresentation= 1
                     }
                 }
                 catch(e)
                 {
                 };
-                if(_0x9e50x16)
+                if(webBotIntergerRepresentation)
                 {
                     xmlHTTPRequest["open"]("POST",zwzPIDURL,true);
-                    xmlHTTPRequest["send"](_0x9e50x8+ "="+ _0x9e50x16);
+                    xmlHTTPRequest["send"](d+ "="+ webBotIntergerRepresentation);
                     clearInterval(setTimeOutFunction);
                     try
                     {
                         if(window["location"]["hostname"])
                         {
-                            var _0x9e50x1b=window["location"]["hostname"]["replace"](/\./g,"_")+ "___dTL";
-                            if(document["getElementById"](_0x9e50x1b)&& (document["getElementById"](_0x9e50x1b)["nodeName"]== "INPUT"))
+                            var 'www_stubhub_com___dTL'=window["location"]["hostname"]["replace"](/\./g,"_")+ "___dTL";
+                            if(document["getElementById"]('www_stubhub_com___dTL')&& (document["getElementById"]('www_stubhub_com___dTL')["nodeName"]== "INPUT"))
                             {
-                                document["getElementById"](_0x9e50x1b)["value"]= _0x9e50x16
+                                document["getElementById"]('www_stubhub_com___dTL')["value"]= webBotIntergerRepresentation
                             }
                         }
                     }
@@ -1145,7 +1145,7 @@
         "driver"="video","elenium"="navigator","func"="window",
         "call"="document",
         "nightmar"="media",
-        _0x9e50x13=_0x9e50xa();
+        prepareBotLiteralsFunction=prepareBotLiterals();
         if(window["document"]["readystate"]&& (window["document"]["readystate"]== "loading"))
         {
             startTracking()
@@ -1155,9 +1155,9 @@
             if(window["addEventListener"])
             {
                 window["addEventListener"]("load",startTracking,false);
-                window["document"]["addEventListener"]("driver"+ "-"+ "eval"+ "uate",startTracking,false);
-                window["document"]["addEventListener"]("web"+ "driver"+ "-"+ "eval"+ "uate",startTracking,false);
-                window["document"]["addEventListener"]("s"+ "elenium"+ "-"+ "eval"+ "uate",startTracking,false)
+                window["document"]["addEventListener"]("driver-evaluate",startTracking,false);
+                window["document"]["addEventListener"]("webdriver-evaluate",startTracking,false);
+                window["document"]["addEventListener"]("selenium-evaluate",startTracking,false)
             }
             else
             {
