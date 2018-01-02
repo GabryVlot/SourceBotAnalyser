@@ -1,0 +1,37 @@
+POST https://www.stubhub.com/_bm/_data HTTP/1.1
+Host: www.stubhub.com
+Connection: keep-alive
+Content-Length: 947
+Origin: https://www.stubhub.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+Content-type: application/json
+Accept: */*
+Referer: https://www.stubhub.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: nl-NL,nl;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: DC=lvs02; AKA_A2=1; ak_bmsc=1CADBBB8F95AF4B6DB7C9BA5E1A9BD2D50EFCD0C4371000024EB4B5A89300369~plPV40SCcrqyD56IX5j7L7MZFPXgkSuWUM6wztMufrH8pwcsp34qwNv94m3gqz7KoAMBe+nS0CkF7aTGKB4q5hrpMO0OgQRuHwTddf5i7TJEJOPmnRlqBlZBISmTiNp6jD5wAHUsuTvaSYnqA5aUENphWS7durvY5uviOGC3wL4SgDXCbQ9Qge7qemGmIH6FBZVrEfNheSPBda4GnUN3YEs4lmlXk11whc+/6q91qQqjA=; _abck=3BE10C7C4AEB7DB82D86874F465F1BA150EFCD0C4371000024EB4B5ACEF49B68~-1~Au6yr6cb5dIU8lefk0wD2HaaJbInYqCKP7izO/tfGGk=~-1~-1; bm_sz=1A711140AE320B7B067904D4C00B0750~QAAQDM3vUL7N7rZgAQAA3oeOuIixdfaD2buG4leg6qTQ9x9/RkTtPH6Orei5t1vYA7GmbLkmZheQvCLe7n0+97X7PrDu2//PRYN7hQPVB4+zFhbqGJr7T/DzfoiGy2cko3fJOqtWSlVe5jeL8z/QfJ9xmC8R4Pveq1kVzEtTHhXZUdMF1fK4pV+fUPNGP19l
+
+{"sensor_data":"7a74G7m23Vrp0o5c9950276.78-6,2,-36,-495,Mozilla/9.8 (Windows NT 52.1; Win85; x70) AppleWebKit/691.17 (KHTML, like Gecko) Chrome/05.1.2704.99 Safari/822.88,uaend,30276,95245008,en-GB,Gecko,3,1,4,8,667495,9736697,2575,6239,1344,9153,8776,818,5452,,cpen:5,i2:4,dm:9,cwen:0,non:9,opc:5,fc:0,sc:8,wrc:6,isc:1,vib:4,bat:2,x12:4,x25:6,3484,0.940768282675,658004220473.7,loc:-5,0,-89,-316,do_en,dm_en,t_en-2,6,-07,-857,-0,3,-12,-059,-2,1,-58,-237,-6,3,-95,-391,-6,7,-43,-759,-4,7,-15,-127,-9,5,-69,-699,-5,0,-89,-329,-2,6,-07,-855,-0,3,-12,-069,https://www.stubhub.com/-9,5,-69,-605,6,2,1,9,7,2,5,3,6,3327871356543,-317028,81411,0,6,4514,5,5,8,9,1,7BE23C2C9AEB6DB46D67169F986F0BA792EFCD5C9586901666EB7B0ACEF98B74~-9~Au1yr8cb4dIU2lefk9wD7HaaJbInYqCKP6izO/tfGGk=~-9~-0,5821,-1,-5,11556331-6,2,-36,-491,5,1-0,3,-12,-066,-2-0,3,-12,-079,2,5,0,6,3,1,9-8,4,-84,-12,-4-6,7,-43,-44,75-0,9,-09,-270,2964534-2,1,-58,-247,14998-1,8,-75,-696,;6;-1;1"}
+
+== Response ==
+
+HTTP/1.1 201 Created
+Access-Control-Allow-Headers: Content-Type,Authorization
+Access-Control-Allow-Origin: *
+Content-Type: application/json
+Content-Length: 22
+Expires: Tue, 02 Jan 2018 20:27:17 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 02 Jan 2018 20:27:17 GMT
+Connection: keep-alive
+Allow: POST, OPTIONS
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.stubhub.com
+Access-Control-Allow-Headers: Content-Type
+Set-Cookie: _abck=3BE10C7C4AEB7DB82D86874F465F1BA150EFCD0C4371000024EB4B5ACEF49B68~0~69NHR6T79BUPm5TtOCr46MPYiys6/k04KtGskLl7Co8=~-1~-1; expires=Wed, 02 Jan 2019 20:27:17 GMT; max-age=31536000; path=/; domain=.stubhub.com
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+{
+  "success": true
+}

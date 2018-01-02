@@ -11,7 +11,7 @@ function track(){
             webBotLiteral = webBotArray[arrayInstance];
             if(window[webBotLiteral])
             {
-                console.log('@Window', arrayInstance);
+                console.log('@Window', webBotLiteral);
                 webBotIntergerRepresentation= "300"
             }
         };
@@ -41,6 +41,7 @@ function track(){
         if(!webBotIntergerRepresentation&& window["external"]&& window["external"].toString()&&
             (window["external"].toString()["indexOf"]("Sequentum")!=  -1))
         {
+            console.log('Sequentum');
             webBotIntergerRepresentation= "400"
         }
     }

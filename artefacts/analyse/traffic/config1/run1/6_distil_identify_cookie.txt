@@ -1,0 +1,35 @@
+GET https://www.stubhub.com/distil_identify_cookie.html?httpReferrer=%2F&uid=A2C90184-C9FC-3D7B-9D93-26B9EA44CB08 HTTP/1.1
+Host: www.stubhub.com
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: https://www.stubhub.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: nl-NL,nl;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: DC=lvs02; AKA_A2=1; ak_bmsc=1CADBBB8F95AF4B6DB7C9BA5E1A9BD2D50EFCD0C4371000024EB4B5A89300369~plPV40SCcrqyD56IX5j7L7MZFPXgkSuWUM6wztMufrH8pwcsp34qwNv94m3gqz7KoAMBe+nS0CkF7aTGKB4q5hrpMO0OgQRuHwTddf5i7TJEJOPmnRlqBlZBISmTiNp6jD5wAHUsuTvaSYnqA5aUENphWS7durvY5uviOGC3wL4SgDXCbQ9Qge7qemGmIH6FBZVrEfNheSPBda4GnUN3YEs4lmlXk11whc+/6q91qQqjA=; bm_sz=1A711140AE320B7B067904D4C00B0750~QAAQDM3vUL7N7rZgAQAA3oeOuIixdfaD2buG4leg6qTQ9x9/RkTtPH6Orei5t1vYA7GmbLkmZheQvCLe7n0+97X7PrDu2//PRYN7hQPVB4+zFhbqGJr7T/DzfoiGy2cko3fJOqtWSlVe5jeL8z/QfJ9xmC8R4Pveq1kVzEtTHhXZUdMF1fK4pV+fUPNGP19l; _abck=3BE10C7C4AEB7DB82D86874F465F1BA150EFCD0C4371000024EB4B5ACEF49B68~0~69NHR6T79BUPm5TtOCr46MPYiys6/k04KtGskLl7Co8=~-1~-1; D_IID=6ACE52A6-3F6B-3BCB-B5AF-7054CCF4C294; D_UID=BFC4B496-CEC0-3782-A492-A450273B53D0; D_ZID=532FE17F-D56E-3862-A7E3-E24B4297D0DF; D_ZUID=A2C90184-C9FC-3D7B-9D93-26B9EA44CB08; D_HID=3B345A35-64D6-36D6-91F4-173A4CC3ABD7; D_SID=217.121.68.241:zxDHXuXyQQ/h5HFx4ofjexF6Rdpph4OdeRENDMip9dU
+
+== Request ==
+
+HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Content-Type: text/html
+Content-Length: 154
+X-ARC: True
+Location: /
+X-EdgeConnect-MidMile-RTT: 170
+X-EdgeConnect-Origin-MEX-Latency: 26
+X-EdgeConnect-MidMile-RTT: 171
+X-EdgeConnect-Origin-MEX-Latency: 26
+Date: Tue, 02 Jan 2018 20:27:17 GMT
+Connection: keep-alive
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Set-Cookie: bm_sv=8BA25F8266CCE5D06D359383F27016BB~RGY5V4ZhZTiei+Vgqp7F/15zSyhPmX2m3xZquS6MyjTW1Go9FJpI4EWnWNr4KhCRk8uUzOr5R8dYsNjUCqXjwP7YHChtWrBEPoW9LaZWT2rFjo4CHpuNOdFhDNF/x5zz7nOUbu0nGGZ2jtYrL933hz1LIel9YTXufSx7LKrgRWk=; Domain=.stubhub.com; Path=/; Max-Age=7200; HttpOnly
+
+<html>
+<head><title>302 Found</title></head>
+<body bgcolor="white">
+<center><h1>302 Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
