@@ -1,0 +1,31 @@
+GET https://www.stubhub.com/distil_r_captcha_util.js HTTP/1.1
+Host: www.stubhub.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+Accept: */*
+Referer: https://www.stubhub.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: DC=lvs01; AKA_A2=1; ak_bmsc=31325EBD61A0E552E61182D4CCB84ED0021099A95E2E000064914C5AC1106961~plt+Z0UZh/gJJiKPxxSAhuvGETdUFn6tt5hX4wvonCNU/LzdxSbNUABlxyzFr4ua7ZwXkuD3fs1bSlwZ8OOW3l7LwYE5ZoZjywv6V9P0DNxDSo1UvcSb9T50gkcC+i21becXXC65bing75BAIGZE0+VPbIZHlidouffv6UcTr8Hdw4N2nqXQCpw4/wdzWyKaduob+0iGUVkZauQrV43mPZfVwnnIWeZV3T8GtNxTiRnGg=; bm_sz=2E13DCB02E9B9733DEB3612299B3178C~QAAQqZkQAn4ErYBgAQAAOO8Xu2hl28kksYpi/GFWWxBgYpGntSkxliU+DZbVm6oJka6c2V/VaivZ4h0LPoDNYZROCV4KjVUEDsOR1ktJYLj7oBIaCYrZkZ1eNPesGyNUDrTsjWxWleZp60hFgtabz5Ea/tcbAuG3SXLViZvepmgIDd/7e9WeQ/cYK830d4Rk; _abck=EBA5DE8DE58A5DC3E2B0A5F8AA666B32021099A95E2E000064914C5A26374E6F~0~Hmwtzt7zTPTwI2ATIrYW3fOoGFWB5x7ju8BzJtEzhFQ=~-1~-1; D_SID=217.121.68.241:zxDHXuXyQQ/h5HFx4ofjexF6Rdpph4OdeRENDMip9dU; SH_AT=1XNOHCPxzhOmYfQsadRFfX%2FOMRCZ0KKzhzQg%2BzAtaxxW5pfv1Rx11KOIF7aMprwAoWRb5cqaOl5HFRBikuU7G74EkNI11pbCd%2F9LCa1wpFI%3D; AMCV_1AEC46735278551A0A490D45%40AdobeOrg=1099438348%7CMCIDTS%7C17535%7CMCMID%7C80616970818969897103136548083492430445%7CMCAAMLH-1515572202%7C6%7CMCAAMB-1515572202%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1514974602s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C2.1.0; D_IID=F6D9D576-CF08-388D-8C8F-081D70C0C680; D_UID=0EB620F9-A3EE-3B0F-BF53-9F6E675BCA31; D_ZID=03EB7D85-553B-3332-BA73-F78B95A96066; D_ZUID=F3EC2285-EC3C-3283-8891-D569E06B961E; D_HID=41BB2DFE-8B1E-3D2A-91F5-46028A069AA7; mbox=session#db4cf25564204f9e94a4cd440c06c5c4#1514969264|PC#db4cf25564204f9e94a4cd440c06c5c4.26_25#1578212204; SH_VI=cd5b8e18c39d4e309e1bb1d72f0051c6; s_pers=%20s_dfa%3Dstubhub%7C1514969202245%3B%20s_vs%3D1%7C1514969204170%3B%20s_nr%3D1514967404173-New%7C1549095404173%3B; SH_TMREFID=05772ac6a0a04c13863c01e0d7a87747; _uetsid=_uet8b7849d4; _mibhv=anon-1514967410404-7696147339_5167; QuantumMetricUserID=eec2e825f1dba95330f6022bf3b66313; _sim_uuid=3C4EA941-87D1-4D1B-82DB-DAD850368ABF; uvts=6xs9ZvTItgIqK2RU; atgRecVisitorId=1326sTyHgsypgRTQGwxMUWmPYJ-mt2x7Kmc7-n-tAmTnmPMD2E7; _4c_=fVFda%2BMwEPwrhx76lNpaa62PQDhS16V39PpxaZ6DLcvEXBIHyWl6lPz3rtJQWgr1g5BGszMjzwvbL92GjSEHNFLJXAkBI%2FbP%2FQ9s%2FMLsNq5Pcdn5FRuz5TBswzhN9%2Ft9EoZdvdzVie3XKRuxx5uZC6HrN78uiSgLIUxZ8Cuel0ArL%2BBKXxZCq2lelpjRwDAsnirfVZuB%2BPPy%2Bp4Ls7h3vu392vmi8g2R5puu7VyzmJHZ9a4m5m0cdX5NARlta9%2Fvg%2FN0KJa%2BX7sfMmr38fam2%2Bye6eBd67w%2Fcr7JH7rBEeMDSqDtmwiCSUQizp%2BSqN3ST2FCoWqFtU7VKBqZc0CoW2mhcW0ma0e8uz%2BPfxcX5bS4u%2F3oXIVPznUaQnoCUkh%2Fz86zJEt4GlBJiUYZbRTP%2Bc%2Fpw8UEztZdM9FcgiRQgzYyXgMXIGSOmmuBJkPBEfOz6UM5AYqxpfpY3Kx6W63ia%2BYzdhix52PrOc%2BFhixT1PowUMVaIo8fMXzXnOpniE5hC7ZyTqtGmYZbpSmEk0LXRlqSP%2BqREAoEMCYKbEnvOE%2Fib3ZoKDXZoTjZAb7bxaCf2e%2Fh%2BNdwb71%2FM%2FPlQYfDKw%3D%3D; bm_sv=FFA4FC55538A6FA418C9B82A7A03A14E~KPLnfCSN3NbUCQH4ZwfPOXK3B7SBlS0uiN8SeOwK3vxNCklUenp0hXcJIleFb9Lp1ASvAbJes9M51XfLXbBMC2NOA9i575YPUnpTfkq6cZF4ehRKVxdE7w0LaU9QWE0JXP+TEYg7jGHwXyJEAExpB2RlH8klKOHKS8fZ1nSjG4w=
+
+== Response ==
+
+HTTP/1.1 200 OK
+Last-Modified: Thu, 30 Nov 2017 19:23:44 GMT
+ETag: W/"5a205ac0-4de"
+X-Akamai-RO-Internal-TTL: -1
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 41
+Server: nginx
+Content-Type: application/x-javascript
+X-ARC: True
+Content-Length: 1246
+Cache-Control: max-age=1
+Date: Wed, 03 Jan 2018 08:35:12 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+window.addEventListener("DOMContentLoaded",function(){var distilCaptchaForm=document.getElementById("distilCaptchaForm");if(!distilCaptchaForm)return true;var ajaxCaptchaCallback=function(evt){var findUrl=/(https?:\/\/[^\/]+)?(\/[^\?]+).*/i;var currentPage=document.location.href.replace(findUrl,"$2");var captchaAction=distilCaptchaForm.action.replace(findUrl,"$2");if(currentPage==captchaAction)return true;try{var formData="";var inputs=distilCaptchaForm.getElementsByTagName("INPUT");for(var i=0;i<
+inputs.length;i++)if(inputs[i].name)formData+=inputs[i].name+"="+inputs[i].value+"&";formData+="isAjax=1";evt.preventDefault();var xhr;if(window.XMLHttpRequest)xhr=new XMLHttpRequest;else if(typeof XMLHttpRequest=="undefined")try{xhr=new ActiveXObject("Msxml2.XMLHTTP.6.0")}catch(err){try{xhr=new ActiveXObject("Msxml2.XMLHTTP.3.0")}catch(err2){try{xhr=new ActiveXObject("Microsoft.XMLHTTP")}catch(err3){return 0}}}xhr.onreadystatechange=function(){if(xhr.readyState==4)window.location.reload()};xhr.open("POST",
+distilCaptchaForm.action,true);xhr.setRequestHeader("Content-Type","application/x-www-form-urlencoded");xhr.send(formData);return false}catch(err){}};distilCaptchaForm.addEventListener("submit",ajaxCaptchaCallback,false)},false);

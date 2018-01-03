@@ -219,7 +219,7 @@ function handleFailure(err) {
 // });
 // return;
 
-const seed = {"URL": "https://stubhub.com", "name": "stubhub", "searchElement": "app-container"};
+const seed = {"URL": "https://www.stubhub.com", "name": "stubhub", "searchElement": "app-container"};
 //const seed = {"URL": "http://localhost:63342/selenium/artefacts/config2/chrome_BLOCKED/stubhub.html?_ijt=p40grf6712n1q8rta19dot435c", "name": "stubhub", "searchElement": "app-container"};
 //const seed1 = {"URL": "http://www.infojobs.net", "name": "infojobs", "searchElement": "logo-home-1"};
 

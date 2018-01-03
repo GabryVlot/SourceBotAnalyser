@@ -7,7 +7,8 @@ Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/a
 Accept-Encoding: gzip, deflate, br
 Accept-Language: nl-NL,nl;q=0.9,en-US;q=0.8,en;q=0.7
 
-============ Response ============
+== Response ==
+
 HTTP/1.1 200 OK
 Server: nginx
 Content-Type: text/html
