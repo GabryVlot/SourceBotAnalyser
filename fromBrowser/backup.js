@@ -651,7 +651,8 @@
                                 ,r.open("POST",e.path,!0),l("DistilPostSent"),r.send("p="+n)
                         }
                     }
-                        ,u=function(e,t)
+                        ,
+                        u=function(e,t)
                     {
                         for(var r=
                             {
