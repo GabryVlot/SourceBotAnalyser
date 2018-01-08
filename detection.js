@@ -27,9 +27,13 @@ function findTutsPlusLink() {
 var webdriver = require('selenium-webdriver');
 const chrome = require('selenium-webdriver/chrome');
 var chromeOptions = new chrome.Options();
+
+//chromeOptions.setChromeBinaryPath('/usr/bin/google-chrome');
+chromeOptions.setChromeBinaryPath('/home/vlot/UnDetectableCDC/chrome');
 chromeOptions.addArguments(["--start-maximized", "user-data-dir=/home/vlot/google-chrome/Default"]);
 //chromeOptions.addArguments(['--disable-extensions', "--start-maximized", "--disable-local-storage", "user-data-dir=/home/vlot/google-chrome/Default", "--incognito"]);
-
+console.log('Options', chromeOptions, chrome);
+var browser = new webdriver.Builder().usingServer().withCapabilities(chromeOptions.toCapabilities()).build();
 function downloadFile(file_url, index){
     try{
         const secure = file_url.toLowerCase().startsWith('https') ? true : false;
@@ -168,7 +172,6 @@ function deObfuscate(fileName){
     });
 }
 
-var browser = new webdriver.Builder().usingServer().withCapabilities(chromeOptions.toCapabilities()).build();
 function closeBrowser() {
     setTimeout(function(){
         console.log ('Searching for elemens....')
@@ -219,13 +222,13 @@ function handleFailure(err) {
 // });
 // return;
 
-const seed = {"URL": "https://www.stubhub.com", "name": "stubhub", "searchElement": "app-container"};
+const seed = {"URL": "https://www.nu.nl", "name": "stubhub", "searchElement": "app-container"};
 //const seed = {"URL": "http://localhost:63342/selenium/artefacts/config2/chrome_BLOCKED/stubhub.html?_ijt=p40grf6712n1q8rta19dot435c", "name": "stubhub", "searchElement": "app-container"};
 //const seed1 = {"URL": "http://www.infojobs.net", "name": "infojobs", "searchElement": "logo-home-1"};
 
 constructPath('./scripts/stubhub/2017' + seed.name + '/', function(oPath){
     browser.get(seed.URL);
-    browser.wait(findTutsPlusLink, 600000).then(closeBrowser, handleFailure);
+    browser.wait(findTutsPlusLink, 600000);//.then(closeBrowser, handleFailure);
 // browser.findElement(webdriver.By.name('q')).sendKeys('tuts+ code');
 // browser.findElement(webdriver.By.name('btnG')).click();
 });
