@@ -1,4 +1,3 @@
-
 function track(){
     console.log('@Starting to track');
     var webBotIntergerRepresentation=0,arrayInstance=null,webBotLiteral=null;
